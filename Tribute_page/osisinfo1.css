@@ -1,0 +1,39 @@
+body {
+    background-color: #e8ecee;
+    margin: 15%;
+    
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(166, 210, 132);
+    font-size: 8vh;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+#caption {
+    font-size: 19px;
+    font-family: sans-serif;
+    color: black;
+}
+
+div#tribute-data {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #96c996;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+    font-size: x-large;
+}
+
+h1.title-vk {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 6px 10px black;
+}
